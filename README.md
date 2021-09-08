@@ -1,7 +1,7 @@
 # trie_implemetation
 Implementation of the trie data structure.
 
-##Functions that are implemented.
+<h2>Functions that are implemented.</h2>
 
 Insert Function
 
